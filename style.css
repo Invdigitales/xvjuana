@@ -18,7 +18,22 @@
   }
 
 
-
+ h5{
+    font-size: 15px;
+    text-align: center;
+    margin-top: -5%;
+    
+    
+    }
+  
+   .musica{
+  text-align: center;
+  font-family: "Allura", cursive;
+   font-size: 25px;
+   color: #242424;
+   font-weight: 500; 
+margin-top: 30%;
+ }
   
   
   .portada{
